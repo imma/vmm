@@ -1,4 +1,7 @@
 {
   "require": [
+    "tfenv",
+    "rbenv",
+    "nvm"
   ]
 }

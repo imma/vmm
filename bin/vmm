@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
 function main {
-  true
+  tfenv install
+  rbenv install -s
+  nvm install
 }
 
 source sub "$0" "$@"

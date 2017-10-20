@@ -2,6 +2,7 @@
   "require": [
     "tfenv",
     "rbenv",
-    "nvm"
+    "nvm",
+    "pyenv"
   ]
 }

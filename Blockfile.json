@@ -4,5 +4,6 @@
     "rbenv",
     "nvm",
     "pyenv"
-  ]
+  ],
+  "versions": {}
 }
